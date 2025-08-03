@@ -73,9 +73,9 @@ This repository presents multiple approaches to **time series forecasting** usin
 
 | Model                              | MAE  | RMSE | R² Score | MAPE   |
 |-----------------------------------|------|------|----------|--------|
-| Hybrid LightGBM + LSTM Model      | 1.31 | 1.70 | 0.9500   | 54.99% |
+| Hybrid LightGBM     | 1.31 | 1.70 | 0.9500   | 54.99% |
 
-📌 *The hybrid architecture combining LightGBM and LSTM achieved strong performance, especially in capturing temporal and sequential patterns in weather data.*
+📌 *The hybrid architecture combining LightGBM and BERT achieved strong performance, especially in capturing temporal and sequential patterns in weather data.*
 
 ---
 
