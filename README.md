@@ -1,4 +1,4 @@
-# 🌦️ Time Series Forecasting with Weather and Energy Data
+#  Deep Semantics for Structured Data: Hybrid LLM-Based Models for Temporal Forecasting
 
 This repository presents multiple approaches to **time series forecasting** using both **traditional machine learning models** (LightGBM) and **hybrid models enhanced by embeddings from a Large Language Model (LLM)** such as BERT. We apply these techniques on two datasets: an energy consumption dataset and the Jena Climate Dataset.
 
